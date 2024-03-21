@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Image-Generation-App/static/css/main.a659cc4a.css",
+    "main.js": "/Image-Generation-App/static/js/main.84872fa7.js",
+    "static/js/453.ed3810f9.chunk.js": "/Image-Generation-App/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Image-Generation-App/index.html",
+    "main.a659cc4a.css.map": "/Image-Generation-App/static/css/main.a659cc4a.css.map",
+    "main.84872fa7.js.map": "/Image-Generation-App/static/js/main.84872fa7.js.map",
+    "453.ed3810f9.chunk.js.map": "/Image-Generation-App/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a659cc4a.css",
+    "static/js/main.84872fa7.js"
+  ]
+}
